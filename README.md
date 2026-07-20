@@ -47,7 +47,4 @@ Compare weekday and weekend sales performance.
 
 6. Screenshort / Demos
 Show what the dashboard look like.
-Exanple:
-🎯 Interactive Filters
-Filter data by Date, Product Type, Product Category, and Store Location.
-All visuals update dynamically based on selected filters.
+Exanple:https://github.com/kaifkhan-98/Coffee-Sales-Report/blob/main/Coffee%20Sales%20Dashboard%20Overview.png
